@@ -1,1 +1,1 @@
-Discord bot with a mindustry-like rpg ()
+Discord bot with a mindustry-like rpg
